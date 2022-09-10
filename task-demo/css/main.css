@@ -12,6 +12,7 @@ body{
     height: auto;
     padding: 2.5rem;
     border-radius: 3rem;
+    box-shadow: 5px 5px 25px #272727;
     background-color: aquamarine;
 
 }
